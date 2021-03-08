@@ -3,5 +3,4 @@
 Olá ! Bem-vindo ao meu livro de receitas :wave:
 
 - Pizza
-
-- Bolo de chocolate
+- Bolo de cenoura
